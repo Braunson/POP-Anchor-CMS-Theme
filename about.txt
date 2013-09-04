@@ -1,0 +1,5 @@
+Theme name:    Pop
+Description:   Bright and vibrant theme for Anchor CMS.
+Author name:   Braunson Yager
+Author site:   http://www.braunson.ca
+License:       GPL v2
